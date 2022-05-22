@@ -1,0 +1,4 @@
+rootProject.name = 'Citrus_Cucumber_Spring'
+include 'stub'
+include 'test_framework'
+
